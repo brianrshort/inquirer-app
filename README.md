@@ -16,8 +16,11 @@ give input, question by question, to generate the content for the readme file.
 ![Screenshot of bash terminal](https://brianrshort.github.io/inquirer-app/Assets/Screenshot2.jpg)
 
 And from there, once the user has input all of their data and selected a licence, the file is automatically generated. 
+
 The responses are logged in the console so the user can double check their work, and a success message is 
 displayed letting them know their readme file is complete. 
+
+![Screenshot of bash terminal](https://brianrshort.github.io/inquirer-app/Assets/Screenshot3.jpg)
 
 Repo: https://github.com/brianrshort/inquirer-app
 
