@@ -1,4 +1,5 @@
-# inquirer-app
+# Inquirer App
+
 This program uses command line interface (CLI) to take input in from the use and generate a simple, 
 thorough README.md file with a table of contents, badges, and sections on usage, installation, and more. 
 
