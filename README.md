@@ -5,7 +5,7 @@ thorough README.md file with a table of contents, badges, and sections on usage,
 
 To complete this project, I further developed my skills using javascript, node.js, and CLI input and dependencies.
 
-Let's take a quick tour of how to use the app.
+# Usage
 
 First, use Node.js to execute the file:
 
@@ -23,9 +23,12 @@ displayed letting them know their readme file is complete.
 
 ![Screenshot of bash terminal](https://brianrshort.github.io/inquirer-app/Assets/Screenshot3.jpg)
 
-Repo: https://github.com/brianrshort/inquirer-app
+# Repo
+Link -- https://github.com/brianrshort/inquirer-app
 
-License: MIT
+# License 
+MIT
 
-Creator: https://github.io/brianrshort/
+# Creator
+Github -- https://github.com/brianrshort/
 
