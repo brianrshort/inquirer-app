@@ -23,12 +23,15 @@ displayed letting them know their readme file is complete.
 
 ![Screenshot of bash terminal](https://brianrshort.github.io/inquirer-app/Assets/Screenshot3.jpg)
 
-# Repo
-Link -- https://github.com/brianrshort/inquirer-app
+#Technologies Use
+JavaScript, NodeJS, Inquirer, Git
 
 # License 
 MIT
 
-# Creator
-Github -- https://github.com/brianrshort/
+# Repo
+Link -- https://github.com/brianrshort/inquirer-app
+
+# Contact
+Link -- https://github.com/brianrshort/
 
