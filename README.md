@@ -32,6 +32,9 @@ MIT
 # Repo
 Link -- https://github.com/brianrshort/inquirer-app
 
+# Creator
+Github -- https://github.com/brianrshort/
+
 # Contact
-Link -- https://github.com/brianrshort/
+LinkedIn -- https://www.linkedin.com/in/brian-short-b3017320/
 
